@@ -1,6 +1,6 @@
 Password Strength Checker 
 
-A beginner-friendly cybersecurity project that evaluates password strength using Python. The program checks password length, character diversity, and a small list of common passwords, then provides suggestions for improving password security.
+A beginner-friendly cybersecurity tool that evaluates password strength using Python. The program checks password length, character diversity, and a small list of common passwords, then provides suggestions for improving password security.
 
 Project Overview :
 
@@ -23,7 +23,7 @@ Requirements : Python 3 , Python standard library (re)
  Installation and Working for Linux:
 
 Clone this repository :
-git clone <link of github you copied>
+git clone <linkofgithubyoucopied>
 
 Open the project directory:
 cd password-strength-checker
